@@ -20,7 +20,7 @@ própria e específica dele.  */
           </div>
         </nav>
       </header>
-    )
+    );
 }
 
 export default Navbar;
